@@ -42,7 +42,7 @@ profile = ProfileReport(train_data, title='Tweets Sentiment analysis, coronaviru
     I removed type-2, but remained type-1, removing # sign
 
 ### Class balance
-![class_balance](media/Screenshot%202022-07-26%20at%2017.22.02.png)
+![class_balance](media/class_balance.png)
 
 Classes are pretty balanced, no severe imbalance
 
